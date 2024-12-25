@@ -1,2 +1,2 @@
-# sanke_game
+# snake_game
 I developed a classic Snake game using JavaScript and the HTML5 Canvas API. The game initializes a canvas where the snake is represented as a series of red blocks. The snake moves across the canvas, and its position is updated in real-time using a refresh mechanism controlled by setTimeout. Each segment of the snake is drawn dynamically, and the game logic handles the snake's growth and interaction with the environment. This project demonstrates the fundamentals of JavaScript, including object-oriented programming, dynamic rendering, and user interaction for a fun and nostalgic gameplay experience.
